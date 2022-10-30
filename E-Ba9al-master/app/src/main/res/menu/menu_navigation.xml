@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profilePage"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="بروفيل"/>
+    <item
+        android:id="@+id/articleCategPage"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_storefront_24"
+        android:title="سلعة"/>
+    <item
+        android:id="@+id/cereditePage"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        android:title="كريدي"/>
+    <item
+        android:id="@+id/pannierPage"
+        android:enabled="true"
+        android:icon="@drawable/panier"
+        android:title="القفة"/>
+</menu>

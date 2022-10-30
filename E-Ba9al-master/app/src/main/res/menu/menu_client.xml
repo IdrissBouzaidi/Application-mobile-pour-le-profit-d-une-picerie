@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#000"
+    >
+    <item
+        android:id="@+id/profilePage"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        android:iconTint="@color/darkBlue"
+        android:title="الخروج"
+        android:visible="true"
+        android:menuCategory="container"
+        />
+</menu>

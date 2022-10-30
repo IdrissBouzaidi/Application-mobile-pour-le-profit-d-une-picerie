@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@mipmap/bg2"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
+        android:foregroundTint="#E91E63"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:text="مرحبا بك"
+            android:textColor="#364f6b"
+            android:textSize="45dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="40dp"
+            android:text="فحانــوتك"
+            android:textColor="#fe718d"
+            android:textSize="45dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="236dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:paddingTop="0dp"
+            android:src="@mipmap/logo2" />
+
+
+
+       <LinearLayout
+           android:layout_width="150dp"
+           android:layout_height="match_parent"
+           android:orientation="vertical"
+           android:gravity="center"
+           >
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginTop="20dp"
+               android:text="إختر من فضلك"
+               android:textColor="#364f6b"
+               android:textSize="20dp"
+               android:textStyle="bold"
+               android:drawableRight="@drawable/ic_baseline_touch_app_24"
+               />
+
+           <View
+               android:layout_marginTop="5dp"
+               android:layout_width="120dp"
+               android:layout_height="1dp"
+               android:background="#364f6b"/>
+       </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_marginTop="40dp"
+            >
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/epicierBtn"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:drawableRight="@mipmap/person"
+                android:background="@drawable/buttonstyle"
+                android:text="بقال"
+                android:textColor="#FFF"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:onClick="faireAuthentifier"
+                android:layout_marginEnd="5dp"
+                />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/clientBtn"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:background="@drawable/buttonstyle"
+                android:drawableRight="@mipmap/client"
+                android:text="زبون"
+                android:textColor="#FFF"
+                android:textSize="24sp"
+                android:onClick="faireAuthentifier"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

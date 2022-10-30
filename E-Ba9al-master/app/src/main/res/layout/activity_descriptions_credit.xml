@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bg"
+    tools:context=".epiciers.DescriptionsCreditActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="150px"
+        android:background="@color/menuColor"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:titleMarginStart="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+    </androidx.appcompat.widget.Toolbar>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="150px"
+        android:background="@mipmap/bg"
+        android:padding="10dp"
+        tools:context=".clients_epiciers.MainActivity">
+
+        <TextView
+            android:id="@+id/notestitre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal"
+            android:text="الملاحظات"
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/descriptionsCreditRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/addnewnotebtn"
+            android:layout_below="@id/notestitre"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="20dp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/addnewnotebtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:backgroundTint="@color/white"
+            android:onClick="ajouterDescriptionCredit"
+            android:text="ادخل ملاحظة جديدة"
+            android:textColor="@color/black" />
+
+
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

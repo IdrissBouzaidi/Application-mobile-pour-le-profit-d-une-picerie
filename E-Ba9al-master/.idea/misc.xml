@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/IDRIS/.gradle/caches/transforms-3/4cbcb2a139875109bde94b7e730430f9/transformed/appcompat-1.4.1/res/layout/support_simple_spinner_dropdown_item.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable-v24/account.xml" value="0.2475" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable-v24/custom_frame.xml" value="0.3" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1355" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/bg_desc_produit.xml" value="0.2475" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/button.xml" value="0.2655" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/custom_button.xml" value="0.232" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/custom_input.xml" value="0.178" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/cut_card_bg.xml" value="0.1" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/eye.xml" value="0.2045" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/eyeRed.xml" value="0.2045" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/eye_black.xml" value="0.2045" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/eye_green.xml" value="0.2045" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/gradientbackground.xml" value="0.2655" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/gradientbackground2.xml" value="0.2655" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1355" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.1355" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.1355" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.25" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1355" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.1355" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/ic_baseline_star_border_24.xml" value="0.1355" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/ic_baseline_star_rate_24.xml" value="0.1355" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/ic_baseline_storefront_24.xml" value="0.1355" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/ic_baseline_touch_app_24.xml" value="0.2655" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1355" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/drawable/rounded_corner.xml" value="0.2155" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/_activity_ajouter_au_panier.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/_activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/_activity_profile_page.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/_articles_test.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/_home.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/_home_test.xml" value="0.25" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/_liste_produits.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/_login_client.xml" value="0.24230072463768115" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/_registre_client.xml" value="0.24230072463768115" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/_test.xml" value="0.26145833333333335" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/_tryme.xml" value="0.26145833333333335" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/_verify_phone_no.xml" value="0.3070652173913043" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/_welcom_screen.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_accueil.xml" value="0.25" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_accueil_client.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_accueil_epicier.xml" value="0.246875" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_ajouter_au_panier.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_article.xml" value="0.33" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_articles.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_authentification.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_autres.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_boissons.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_commande.xml" value="0.33" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_connect_client.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_cookies.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_credit.xml" value="0.246875" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_creer_compte_client.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_descriptions_credit.xml" value="0.25" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_element_commande.xml" value="0.2625" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_element_panier.xml" value="0.25" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_element_reponse.xml" value="0.21" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_graines.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_hygiene.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_inscription_client.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_lait.xml" value="0.34103260869565216" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_list_produits.xml" value="0.2796833773087071" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_liste_clients_commandants.xml" value="0.2625" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_liste_commandes.xml" value="0.21422101449275363" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_panier.xml" value="0.25" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_produit.xml" value="0.4661016949152542" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_produit_accueil.xml" value="0.24230072463768115" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_produit_commande.xml" value="0.3220108695652174" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_produits.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_produits_commande.xml" value="0.2" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_profil_client.xml" value="0.3222591362126246" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/activity_welcom_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/appbar.xml" value="0.1" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/article.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/commande.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/credit.xml" value="0.25" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/description_credit.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/dialogue_ajouter_description.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/element_commande.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/element_notification.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/element_panier.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/element_reponse.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/fragment_accueil_client.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/fragment_articles.xml" value="0.24242424242424243" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/fragment_commandes.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/fragment_credits.xml" value="0.246875" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/fragment_fragment1.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/fragment_fragment2.xml" value="0.21" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/fragment_fragment3.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/fragment_liste_commandes.xml" value="0.26145833333333335" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/fragment_liste_credits.xml" value="0.25" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/fragment_notifications.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/fragment_produit.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/fragment_reponses_commandes.xml" value="0.22" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/layout.xml" value="0.20625" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/login.xml" value="0.24270833333333333" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/login_client.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/produit.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/registre_client.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/registre_epicier.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/test.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/toolbar.xml" value="0.2625" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/layout/verify_phone_no.xml" value="0.26145833333333335" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/menu/menu.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/menu/menu_client.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/menu/menu_epicier.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master/app/src/main/res/menu/toolbar.xml" value="0.2625" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master22/app/src/main/res/layout/activity_element_panier.xml" value="0.18" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master36/app/src/main/res/layout/activity_ajouter_au_panier.xml" value="0.2625" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master36/app/src/main/res/layout/activity_connect_client.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master36/app/src/main/res/layout/activity_inscription_client.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master36/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master36/app/src/main/res/layout/login_client.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master36/app/src/main/res/layout/registre_client.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master36/app/src/main/res/layout/verify_phone_no.xml" value="0.2625" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master53/app/src/main/res/layout/registre_client.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/IDRIS/AndroidStudioProjects/E-Ba9al-master7/app/src/main/res/layout/activity_element_panier.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.154" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/drawable/custom_button.xml" value="0.1525" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/drawable/ic_launcher_background.xml" value="0.154" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/layout/activity_accueil_client.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/layout/activity_articles.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/layout/activity_autres.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/layout/activity_boissons.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/layout/activity_connect_client.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/layout/activity_cookies.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/layout/activity_graines.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/layout/activity_hygiene.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/layout/activity_inscription_client.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/layout/activity_lait.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/layout/activity_panier.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/layout/activity_profil_client.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.154" />
+        <entry key="..\:/Users/ILHAM/AndroidStudioProjects/EBA9AL/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.154" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

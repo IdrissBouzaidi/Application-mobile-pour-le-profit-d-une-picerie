@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@mipmap/bg"
+    android:foregroundTint="#E91E63"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="150px"
+        android:background="@color/menuColor"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:titleMarginStart="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+    </androidx.appcompat.widget.Toolbar>
+
+
+
+    <TextView
+        android:id="@+id/nomCategorie"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/neosansarabic"
+        android:layout_gravity="center"
+        android:textColor="#870040"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/rechercheProduit"
+        android:layout_width="250dp"
+        android:layout_height="35dp"
+        android:layout_gravity="center"
+        android:drawableStart="@drawable/chercher"
+        android:paddingRight="10dp"
+        android:drawablePadding="12dp"
+        android:hint="ابحت على منتوج "
+        android:background="@drawable/custom_input"
+        />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/itemProduit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp" />
+
+
+</LinearLayout>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".clients.AjouterAuPanierActivity"
+    android:background="@mipmap/bg">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="150px"
+        android:background="@color/menuColor"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:titleMarginStart="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+    </androidx.appcompat.widget.Toolbar>
+    <LinearLayout
+        android:id="@+id/mainL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toolbar"
+        android:orientation="vertical"
+        android:background="@drawable/cut_card_bg"
+        >
+
+        <ImageView
+            android:id="@+id/imageProduit"
+            android:layout_width="210dp"
+            android:layout_height="210dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:padding="30dp"
+            android:src="@mipmap/image_atay"
+            />
+
+        <TextView
+            android:id="@+id/nomProduit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#fff"
+            android:textSize="21sp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="**"
+            android:textColor="#ccc"
+            android:textSize="18sp"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="right">
+
+                <TextView
+                    android:id="@+id/prixProduit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:textColor="#ccc"
+                    android:textSize="18sp"
+                    />
+
+                <TextView
+                    android:id="@+id/texttitre"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="15dp"
+                    android:text="تمن المنتوج : "
+                    android:textColor="#ffff"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/commentaireProduit"
+                android:layout_width="match_parent"
+                android:layout_marginStart="15dp"
+                android:layout_marginEnd="15dp"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:padding="10dp"
+                android:hint="أضف ملاحظتك "
+                android:background="@drawable/bg_right"
+                />
+
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/relativelayout"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:layout_margin="20dp"
+            android:layout_gravity="center"
+            android:background="@drawable/bg_produit1"
+            app:layout_constraintStart_toStartOf="parent"
+            android:orientation="horizontal"
+            android:layout_marginTop="20dp"
+            >
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:layout_centerVertical="true"
+                android:layout_margin="10dp"
+                >
+                <ImageButton
+                    android:id="@+id/plus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/ic_baseline_add_24"
+                    android:scaleType="fitXY"
+                    android:background="#00000000"
+                    android:onClick="incrQuantite" />
+
+                <TextView
+                    android:id="@+id/quantiteProduit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="55dp"
+                    android:layout_marginEnd="55dp"
+                    android:background="@drawable/bg_count"
+                    android:padding="0dp"
+                    android:text="1"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+                <ImageButton
+                    android:id="@+id/moins"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/ic_baseline_remove_24"
+
+                    android:scaleType="fitXY"
+                    android:background="#00000000"
+                    android:onClick="decrQuantite" />
+
+
+            </LinearLayout>
+        </RelativeLayout>
+        <ImageButton
+            android:id="@+id/favoris"
+            android:layout_gravity="center"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="10dp"
+            android:onClick="ajouterAuFavoris"
+            />
+
+    </LinearLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mainL"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="55dp"
+        android:background="@drawable/bg_button_pannier"
+        android:onClick="ajouterAuPanier"
+        android:text="حط في السلة"
+        android:textColor="#fff"
+        android:textSize="20sp">
+
+    </androidx.appcompat.widget.AppCompatButton>
+
+</RelativeLayout>
